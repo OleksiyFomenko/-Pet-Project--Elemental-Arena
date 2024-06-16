@@ -767,10 +767,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{97FF77EF-05FC-951D-A34C-2010A0A99248}</Project>
-      <Name>Assembly-CSharp-firstpass</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.InternalAPIEngineBridge.001.csproj">
       <Project>{14960259-AB1E-B8D0-E06A-61B5187D6449}</Project>
       <Name>Unity.InternalAPIEngineBridge.001</Name>

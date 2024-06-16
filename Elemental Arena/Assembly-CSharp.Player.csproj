@@ -707,10 +707,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Assembly-CSharp-firstpass.Player.csproj">
-      <Project>{7FE21EFB-3B88-5A7E-820E-6B30FBD46CB3}</Project>
-      <Name>Assembly-CSharp-firstpass.Player</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.InternalAPIEngineBridge.001.Player.csproj">
       <Project>{3DDEFE5A-9473-B028-3FA1-2EE3DC840F8A}</Project>
       <Name>Unity.InternalAPIEngineBridge.001.Player</Name>
